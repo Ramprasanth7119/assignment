@@ -11,9 +11,9 @@ Group: REDACTED
 
 // Fuction Prototypes: Tells the compiler we have the bellow functions used later in our code
 float calcIcrement(float salary, int noofYearsWorked);
-float calcTotalSalary(float salary, float increment);
+float calcTotalSalary(float  salary, float increment);
 
-
+//ram
 int main(){
 
     // Variable Init
